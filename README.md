@@ -11,4 +11,6 @@ Machine Learning aplicate pe o serie de texte preluate din diverse canale de soc
 - fisier "demo task echipa 4" >>> demo audio/video
 - fisier "documentatie task echipa 4" >>> documentatie amanuntita
 - fisier "prezentare task4" >>> prezentare PPT
+- fisier "diacritice_script" >>> script R pentru eliminare diacritice din seturile noastre de date
+
 
